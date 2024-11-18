@@ -19,3 +19,19 @@
     - **Web Applications**
       - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsDeveloperWebApplications.png)  
       - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsDeveloperWebApplications.pdf)
+
+### Technical Skills Development 
+
+- **Basic Course on Installation and Design of Electrical Device Control Systems Using IoT**  
+Conducted by:
+โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ)
+Year Certified: 2024
+  - [Certificate]()  
+  - [View Full Certificate (PDF)]()
+
+### Microsoft  
+
+- **Technical Skills Development**  
+  - **App Builder-2016**
+      - [Certificate]()  
+      - [View Full Certificate (PDF)]()
