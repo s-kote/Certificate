@@ -2,18 +2,20 @@
 
 ### Microsoft  
 
-#### 2014  
 - **Microsoft Certified Professional**  
-Year Certified: 2024
+Year Certified: 2016
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedProfessional.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedProfessional.pdf)  
 - **Microsoft Solutions Associate**  
+Year Certified: 2016
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsAssociate.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsAssociate.pdf)
-- **Microsoft Specialist**  
+- **Microsoft Specialist** 
+Year Certified: 2016 
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSpecialist.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSpecialist.pdf)  
 - **Microsoft Solutions Developer**  
+Year Certified: 2016
     - **App Builder-2016**
       - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsDeveloperAppBuilder.png)  
       - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsDeveloperAppBuilder.pdf)
