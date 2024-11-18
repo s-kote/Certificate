@@ -27,6 +27,11 @@ Conducted by:
 โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Year Certified: 2024
   - [Certificate]()  
   - [View Full Certificate (PDF)]()
+- **Basic Network Course for IT Beginners**  
+Conducted by:
+กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ สมาคมส่งเสริมนวัตกรรมเทคโนโลยีไซเบอร์ Year Certified: 2024
+  - [Certificate]()  
+  - [View Full Certificate (PDF)]()
 
 ### Microsoft  
 
