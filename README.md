@@ -78,7 +78,8 @@ Year Certified: 2024
 
 - **Chinese for Communication Course**  
 Conducted by:
-โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Hours Completed: 200 ชั่วโมง  
+โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ)  
+Hours Completed: 200 ชั่วโมง  
 Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Language%20Certifications/Chinese%20for%20Communication%20Course.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Language%20Certifications/Chinese%20for%20Communication%20Course.pdf)
