@@ -10,7 +10,7 @@ Year Certified: 2016
 Year Certified: 2016
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsAssociate.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSolutionsAssociate.pdf)
-- **Microsoft Specialist** 
+- **Microsoft Specialist**
 Year Certified: 2016 
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSpecialist.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedSpecialist.pdf)  
