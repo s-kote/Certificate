@@ -25,13 +25,13 @@
 - **Basic Course on Installation and Design of Electrical Device Control Systems Using IoT**  
 Conducted by:
 โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Year Certified: 2024
-  - [Certificate]()  
-  - [View Full Certificate (PDF)]()
+  - [Certificate](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Course%20on%20Installation%20and%20Design%20of%20Electrical%20Device%20Control%20Systems%20Using%20IoT.png)  
+  - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Course%20on%20Installation%20and%20Design%20of%20Electrical%20Device%20Control%20Systems%20Using%20IoT.pdf)
 - **Basic Network Course for IT Beginners**  
 Conducted by:
 กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ สมาคมส่งเสริมนวัตกรรมเทคโนโลยีไซเบอร์ Year Certified: 2024
-  - [Certificate]()  
-  - [View Full Certificate (PDF)]()
+  - [Certificate](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Network%20Course%20for%20IT%20Beginners.png)  
+  - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Network%20Course%20for%20IT%20Beginners.pdf)
 
 ### Microsoft  
 
