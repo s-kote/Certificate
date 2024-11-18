@@ -24,10 +24,9 @@
 
 - **Basic Course on Installation and Design of Electrical Device Control Systems Using IoT**  
 Conducted by:
-    - **โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ)**
-    Year Certified: 2024
-      - [Certificate]()  
-      - [View Full Certificate (PDF)]()
+โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Year Certified: 2024
+  - [Certificate]()  
+  - [View Full Certificate (PDF)]()
 
 ### Microsoft  
 
