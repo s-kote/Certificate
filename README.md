@@ -4,6 +4,7 @@
 
 #### 2014  
 - **Microsoft Certified Professional**  
+Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedProfessional.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/microsoft/2014/MicrosoftCertifiedProfessional.pdf)  
 - **Microsoft Solutions Associate**  
