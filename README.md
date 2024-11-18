@@ -24,14 +24,12 @@
 
 - **Basic Course on Installation and Design of Electrical Device Control Systems Using IoT**  
 Conducted by:
-โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) 
-Year Certified: 2024
+โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Course%20on%20Installation%20and%20Design%20of%20Electrical%20Device%20Control%20Systems%20Using%20IoT.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Course%20on%20Installation%20and%20Design%20of%20Electrical%20Device%20Control%20Systems%20Using%20IoT.pdf)
 - **Basic Network Course for IT Beginners**  
 Conducted by:
-กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ สมาคมส่งเสริมนวัตกรรมเทคโนโลยีไซเบอร์ 
-Year Certified: 2024
+กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ สมาคมส่งเสริมนวัตกรรมเทคโนโลยีไซเบอร์ Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Network%20Course%20for%20IT%20Beginners.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Technical%20Skills%20Development/Basic%20Network%20Course%20for%20IT%20Beginners.pdf)
 
@@ -39,8 +37,7 @@ Year Certified: 2024
 
 - **Object-Oriented Programming with Java**  
 Conducted by:
-กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ มูลนิธิเพื่อการพัฒนาดิจิทัล และ สมาคมอุตสาหกรรมซอฟต์แวร์ไทย 
-Year Certified: 2024
+กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ มูลนิธิเพื่อการพัฒนาดิจิทัล และ สมาคมอุตสาหกรรมซอฟต์แวร์ไทย Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Programming%20Skill/Object-Oriented%20Programming%20with%20Java.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Programming%20Skill/Object-Oriented%20Programming%20with%20Java.pdf)
 
@@ -56,8 +53,7 @@ Conducted by:
 
 - **User Experience (UX) and User Interface (UI) Design**  
 Conducted by:
-กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ มูลนิธิเพื่อการพัฒนาดิจิทัล และ สมาคมอุตสาหกรรมซอฟต์แวร์ไทย 
-Year Certified: 2024
+กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน ร่วมกับ มูลนิธิเพื่อการพัฒนาดิจิทัล และ สมาคมอุตสาหกรรมซอฟต์แวร์ไทย Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Design%20and%20User%20Experience/User%20Experience%20(UX)%20and%20User%20Interface%20(UI)%20Design.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Design%20and%20User%20Experience/User%20Experience%20(UX)%20and%20User%20Interface%20(UI)%20Design.pdf)
  
@@ -65,8 +61,7 @@ Year Certified: 2024
 
 - **Basic Cybersecurity Course**  
 Conducted by:
-กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน 
-Year Certified: 2024
+กรมพัฒนาฝีมือแรงงาน กระทรวงแรงงาน Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Cybersecurity%20and%20IT%20Basics/Basic%20Cybersecurity%20Course.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Cybersecurity%20and%20IT%20Basics/Basic%20Cybersecurity%20Course.pdf)
 
@@ -74,8 +69,6 @@ Year Certified: 2024
 
 - **Chinese for Communication Course**  
 Conducted by:
-โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) 
-Hours Completed: 200 ชั่วโมง 
-Year Certified: 2024
+โรงเรียนฝึกอาชีพกรุงเทพมหานคร (อาทร สังขะวัฒนะ) Hours Completed: 200 ชั่วโมง Year Certified: 2024
   - [Certificate](https://github.com/s-kote/certifications/blob/main/Language%20Certifications/Chinese%20for%20Communication%20Course.png)  
   - [View Full Certificate (PDF)](https://github.com/s-kote/certifications/blob/main/Language%20Certifications/Chinese%20for%20Communication%20Course.pdf)
